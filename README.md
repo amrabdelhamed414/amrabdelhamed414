@@ -10,7 +10,7 @@ Breaking systems → Fixing them 😎
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=orange)
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR_USERNAME)
 
 [![LinkedIn](https://img.shields.io/badge/Amr%20Abdelhamed-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/amr-a-2a6096238)
