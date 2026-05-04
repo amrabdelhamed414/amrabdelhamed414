@@ -20,7 +20,7 @@ Breaking systems → Fixing them 😎
 
 # 👨‍💻 Amr Abdelhamed
 
-### Software Tester | QA Automation
+### Software Tester | QA Automation Engineer
 
 ---
 
@@ -38,8 +38,8 @@ Breaking systems → Fixing them 😎
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
 
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat)
 
 ---
 
@@ -62,7 +62,7 @@ class AmrAbdelhamed {
     String[] automation = {
         "Selenium WebDriver",
         "TestNG",
-        "POM"
+        "Page Object Model (POM)"
     };
 
     String[] api = {
